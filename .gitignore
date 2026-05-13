@@ -1,0 +1,20 @@
+# Java compiled output
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Build directories
+build/
+out/
+target/
+
+# IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
