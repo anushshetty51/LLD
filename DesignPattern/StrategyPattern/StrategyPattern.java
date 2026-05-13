@@ -57,7 +57,7 @@ class ShoppingService{
 }
 
 
-public class StrategyPattern {
+public class StrategyPattern { 
     public static void main(String[] args) {
         Order order = new Order(10, 5); // rate, weight
         ShippingStrategy fixedRateStrategy = new FixedRateShipping(50);
