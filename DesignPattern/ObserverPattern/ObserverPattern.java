@@ -1,3 +1,5 @@
+package DesignPattern.ObserverPattern;
+
 import java.util.*;
 interface FitnessObserver{
     void update(FitnessData data);

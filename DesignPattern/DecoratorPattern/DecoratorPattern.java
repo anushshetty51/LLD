@@ -1,3 +1,5 @@
+package DesignPattern.DecoratorPattern;
+
 interface TextView{
     void render();
 }

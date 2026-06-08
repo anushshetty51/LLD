@@ -1,3 +1,4 @@
+package DesignPattern.StrategyPattern;
 class Order {
     // Order details
     private double weight;
